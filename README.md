@@ -1,16 +1,54 @@
-## Hi there 👋
+<div align="center">
+  <img src="assets/moto.svg" width="180"/>
+</div>
 
-<!--
-**nvsca/nvsca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Alex Damaged</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+Cybersecurity Student • Backend Foundations • Linux & Cloud
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔐 Cybersecurity Path
+
+Currently specializing in:
+
+- Logic & Programming Foundations  
+- Linux Systems & Networking  
+- Python for Backend & Automation  
+- Java Backend + Cloud (AWS)  
+- Secure Development & QA  
+- Cybersecurity Program (Santander)  
+
+---
+
+### 🧠 Main Focus
+
+- Information Security  
+- Vulnerability Analysis  
+- Secure Systems  
+- Backend & Infrastructure Fundamentals  
+
+---
+
+### 🛠 Tech Stack (in progress)
+
+- Python • Java • Linux  
+- Git & GitHub  
+- Networking Basics  
+- Cloud Fundamentals (AWS)  
+
+---
+
+### 🚧 Current Goals
+
+- Build security-focused projects  
+- Learn offensive & defensive security  
+- Create a solid backend + security foundation  
+
+---
+
+<div align="center">
+  <img src="assets/moto.svg" width="110"/>
+</div>
