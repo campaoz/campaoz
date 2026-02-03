@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/moto.svg" width="180"/>
+  <img src="assets/motoca.svg" width="180"/>
 </div>
 
 <h1 align="center">Alex Damaged</h1>
@@ -50,5 +50,5 @@ Currently specializing in:
 ---
 
 <div align="center">
-  <img src="assets/moto.svg" width="110"/>
+  <img src="assets/motoca.svg" width="110"/>
 </div>
