@@ -1,9 +1,10 @@
 <div align="center">
-  <img src="assets/Motoca.svg" width="140" alt="Motorcycle logo" />
 
-# Alexsandro C. Rodrigues 
+<img src="Motoca.svg" width="120"/>
 
-Cloud Security em formação, com foco em **AWS**.
+# Alexsandro C. Rodrigues
+
+<sub>Cloud Security em formação · foco em AWS</sub>
 
 </div>
 
