@@ -2,7 +2,7 @@
 
 <img src="assets/Motoca.svg" width="120"/>
 
-# Alexsandro C. Rodrigues
+## Alexsandro C. Rodrigues
 
 <sub>Cloud Security em formação, foco em **AWS**</sub>
 
