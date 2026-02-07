@@ -6,6 +6,8 @@
 
 Cloud Security em formação, com foco em **AWS**.
 
+</div>
+
 Atualmente construindo base sólida em **infraestrutura, redes, Linux e segurança da informação**, com objetivo de atuar como **Cloud Security Engineer Jr**.
 
 ## 🎯 Foco de estudo
