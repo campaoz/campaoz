@@ -8,7 +8,6 @@
 
 <p>
 Atualmente construindo base sólida em infraestrutura, redes, Linux e segurança da informação,<br>
-com objetivo de atuar na área.
 </p>
 
 </div>
