@@ -4,11 +4,11 @@
 
 ### Alexsandro C. Rodrigues
 
-<sub>Cloud Security em formação · foco em **AWS**</sub>
+<sub>Cyber security em formação</sub>
 
 <p>
 Atualmente construindo base sólida em infraestrutura, redes, Linux e segurança da informação,<br>
-com objetivo de atuar como <strong>Cloud Security Engineer Jr</strong>.
+com objetivo de atuar na área.
 </p>
 
 </div>
